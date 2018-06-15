@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heather Anderson</title>
+    <link>/</link>
+    <description>Recent content on Heather Anderson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research Interests</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a doctoral student using the Language Environment Analysis System (LENA) to study how parent-child interactions influence the development of language and executive functioning over time. I am particularly interested in the language and strategies parents use to guide their children through “everyday tasks” like grooming, mealtime, and book-reading – things that can be challenging for a young child. I am interested in applying this research to practical, large-scale interventions targeting early childhood settings and parenting practices.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>HEATHER ANDERSON HeatherA@uoregon.edu htanderson.github.io --
+EDUCATION // Doctoral Student, Psychology, 2017-present
+University of Oregon (Eugene, OR)
+Advisor: Dr. Caitlin Fausey
+Bachelor of Arts, 2005-2010
+University of California, Berkeley
+Majors: Psychology &amp;amp; Integrative Biology
+Research Experience // Graduate Student Researcher, University of Oregon 2017-present
+Learning Laboratory
+Principal Investigator: Caitlin M. Fausey, Ph.D.
+Project
+Auditory Environments of Infants and Toddlers (Eugene, OR) 2017-present
+Corpus of daylong audio collected from infants and toddlers ages 3-12 months.</description>
+    </item>
+    
+  </channel>
+</rss>
